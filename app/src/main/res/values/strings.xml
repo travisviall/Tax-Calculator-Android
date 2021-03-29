@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CS3270A4 Viall</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="total_amount_text">Total Amount</string>
+    <string name="total_amount"></string>
+    <string name="tax_rate_text">Tax Rate</string>
+    <string name="tax_rate">0%</string>
+    <string name="tax_amount_text">Tax Amount</string>
+    <string name="total_tax_amount"></string>
+    <string name="item_amount">Item Amount</string>
+</resources>
